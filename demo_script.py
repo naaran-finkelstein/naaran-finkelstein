@@ -4,5 +4,5 @@ import time
 print('test 111')
 print('Test for Demo')
 print('Current Time:', time.ctime(time.time()))
-print('this is version 1.01')
+print('this is version 1.02')
 # Output for example: Sat Jul 17 07:07:09 2021
